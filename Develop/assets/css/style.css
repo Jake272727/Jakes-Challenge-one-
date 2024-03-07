@@ -3,7 +3,7 @@
     padding: 0;
     margin: 0;
 }
-
+/* Makes all P tags font 16px */
 p {
     font-size: 16px;
 }
@@ -12,11 +12,11 @@ a {
     color: #ffffff;
     text-decoration: none;
 }
-
+/* makes the background color of the body section ##d9dcd6 */
 body {
     background-color: #d9dcd6;
 }
-
+/* adds styling to the header */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -30,11 +30,11 @@ header h1 {
     display: inline-block;
     font-size: 48px;
 }
-
+/* Makes the color of the text "SEO" #d9dcd6 */
 #Seo {
     color: #d9dcd6;
 }
-
+/* Adds styling properties to the nav seciton  */
 nav {
     padding-top: 20px;
     margin-right: 20px;
@@ -52,7 +52,7 @@ nav ul li {
 
 
 
-
+/*  adds and styles the background image */
 .hero {
     height: 800px;
     width: 100%;
@@ -135,7 +135,7 @@ nav ul li {
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* sets the properties of the class "blue-box" */
 .blue-box {
     margin-bottom: 20px;
     padding: 50px;
@@ -154,7 +154,7 @@ nav ul li {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* adds styling properties to the footer */
 footer {
     padding: 30px;
     clear: both;
